@@ -1,0 +1,12 @@
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.exe.config
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.exe
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.pdb
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.AssemblyReference.cache
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.SuggestedBindingRedirects.cache
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.FrmClubRegistration.resources
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.FrmUpdateMember.resources
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.Properties.Resources.resources
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.GenerateResource.cache
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.CoreCompileInputs.cache
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.exe
+F:\Desktop\C #\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.pdb
